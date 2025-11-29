@@ -5,7 +5,7 @@
 文件夹结构
 20251129_张三/
 ├── summary.md                 <-- 报告总结 (必需)
-├── slides.pptx                <-- 演示文稿PDF (必需)
-├── slides.pdf                 <-- 演示文稿源文件 (建议)
-└── source_code.zip            <-- 额外数据或代码 (可选)
+├── slides.pptx                <-- 演示文稿源文件 (必需)
+├── slides.pdf                 <-- 演示文稿PDF (建议)
+└── source_code.zip            <-- 额外代码或数据 (可选)
 ```
