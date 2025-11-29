@@ -3,8 +3,10 @@
 A centralized repository for storing group meeting slides (PPTs), summaries, and other team documents. Designed for collaboration, sharing, and long-term knowledge accumulation.<br>
 
 文件夹结构
+```
 20251129_张三/
 ├── summary.md                 <-- 报告总结 (必需)
 ├── slides.pptx                <-- 演示文稿PDF (必需)
 ├── slides.pdf                 <-- 演示文稿源文件 (建议)
 └── source_code.zip            <-- 额外数据或代码 (可选)
+```
